@@ -1,0 +1,8 @@
+Designator,Component,Value,Package,Quantity,Description
+U1,ULN2803A,ULN2803A,DIP-18,1,Relay Driver IC
+K1-K8,Relay,G5LE-1,Relay_THT,8,5V SPDT Relay
+D1-D17,LED,Red LED,0805,17,Status Indicator LED
+R1-R25,Resistor,1K/10K,0805,25,Current Limiting Resistor
+C1-C2,Capacitor,100nF,0805,2,Decoupling Capacitor
+J1-J9,Connector,Header/Screw Terminal,THT,9,Input Output Connector
+H1-H4,Mounting Hole,M3,MountingHole,4,PCB Mounting Hole
