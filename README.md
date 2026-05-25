@@ -57,7 +57,8 @@ The PCB was fully designed in KiCad including:
 
 # Schematic Design
 
-![Schematic](Images/schematic.png)
+<img width="1370" height="735" alt="Screenshot 2026-05-25 135750" src="https://github.com/user-attachments/assets/dc88f5a2-296f-4119-a364-7c133ef12ebf" />
+
 
 The schematic includes:
 
@@ -72,7 +73,8 @@ The schematic includes:
 
 # PCB Layout
 
-![PCB Layout](Images/pcb_layout.png)
+![Uploading Screenshot 2026-05-25 135654.png…]()
+
 
 PCB design includes:
 
@@ -88,7 +90,8 @@ PCB design includes:
 
 ## Front View
 
-![3D Front](Images/pcb_3d_front.png)
+<img width="361" height="409" alt="Screenshot 2026-05-25 135628" src="https://github.com/user-attachments/assets/89362cc6-a90f-4d1d-9045-e8775c626288" />
+
 
 ---
 
