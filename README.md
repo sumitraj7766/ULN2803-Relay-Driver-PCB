@@ -72,8 +72,8 @@ The schematic includes:
 ---
 
 # PCB Layout
+<img width="1343" height="723" alt="Screenshot 2026-05-25 135654" src="https://github.com/user-attachments/assets/4a0f3e05-bf15-47e3-a6fa-359de99843af" />
 
-![Uploading Screenshot 2026-05-25 135654.png…]()
 
 
 PCB design includes:
